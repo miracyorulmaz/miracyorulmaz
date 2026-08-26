@@ -1,4 +1,10 @@
 <div align="center">
+  <img src="./banner.png" width="100%" alt="Miraç Burak Yorulmaz Banner" />
+</div>
+
+<br>
+
+<div align="center">
 
 # Miraç Burak Yorulmaz
 
