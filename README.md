@@ -16,13 +16,13 @@
 
 <p align="center">
   <a href="https://miractandunyaya.com">
-    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+    <img src="https://img.shields.io/badge/miractandunyaya.com-Visit-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
   </a>
   <a href="https://www.linkedin.com/in/miracburakyorulmaz">
-    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-miracburakyorulmaz-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="mailto:mbyorulmaz@gmail.com">
-    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-mbyorulmaz%40gmail.com-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
 </p>
 
