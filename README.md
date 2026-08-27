@@ -1,278 +1,277 @@
 <div align="center">
-  <img src="./banner.png" width="100%" alt="Miraç Burak Yorulmaz Banner" />
+  <img src="./banner.png" width="100%" alt="Miraç Burak Yorulmaz — Builder OS" />
 </div>
 
 <br>
 
-<div align="center">
+<h1 align="center">Miraç Burak Yorulmaz</h1>
 
-# Miraç Burak Yorulmaz
+<p align="center">
+  <b>Product Builder · AI & Digital Transformation · Information Systems</b>
+</p>
 
-### Building systems at the intersection of AI, software and business.
+<p align="center">
+  I build systems that turn ideas, workflows and knowledge into usable products.
+</p>
 
-**Management Information Systems · Product Builder · AI & Digital Transformation**
-
-[![Website](https://img.shields.io/badge/miractandunyaya.com-Visit-111111?style=for-the-badge\&logo=googlechrome\&logoColor=white)](https://miractandunyaya.com)
-[![GitHub](https://img.shields.io/badge/GitHub-miracyorulmaz-111111?style=for-the-badge\&logo=github\&logoColor=white)](https://github.com/miracyorulmaz)
-[![Email](https://img.shields.io/badge/Email-mbyorulmaz%40gmail.com-111111?style=for-the-badge\&logo=gmail\&logoColor=white)](mailto:mbyorulmaz@gmail.com)
-
-</div>
+<p align="center">
+  <a href="https://miractandunyaya.com">Website</a>
+  &nbsp;·&nbsp;
+  <a href="https://www.linkedin.com/in/miracburakyorulmaz">LinkedIn</a>
+  &nbsp;·&nbsp;
+  <a href="mailto:mbyorulmaz@gmail.com">Email</a>
+</p>
 
 ---
 
-## 👋 About me
+## About
 
-I'm a **Management Information Systems student at Sakarya University** focused on building useful systems rather than isolated demos.
+I'm a **Management Information Systems student at Sakarya University** working at the intersection of **software, artificial intelligence and business systems**.
 
-My work sits between **software engineering, artificial intelligence, enterprise systems and digital transformation**.
-
-I enjoy taking an idea through the full process:
-
-```text
-idea → research → architecture → development → testing → deployment → iteration
-```
-
-I'm especially interested in products that:
+I’m especially interested in projects where technology can:
 
 * automate professional workflows,
-* organize and preserve knowledge,
-* connect AI with real business processes,
-* turn complex systems into usable experiences,
-* and have a reason to exist outside a GitHub repository.
+* preserve and organize knowledge,
+* improve business processes,
+* connect AI with real-world systems,
+* and grow beyond a prototype into something people can actually use.
 
-> **I want to build technology that becomes useful outside the repository.**
-
----
-
-## 🚀 Featured Projects
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 🤖 Adaptive Professional Digital Worker
-
-A security-aware **AI digital worker PoC** designed around professional capability, persistent memory and evidence-based skill evolution.
-
-**Highlights**
-
-* Role-based digital worker architecture
-* Professional memory across sessions
-* Deterministic business tools
-* Evidence-grounded AI outputs
-* Skill evaluation and capability progression
-* PostgreSQL-backed persistent state
-* Security-conscious execution boundaries
-
-**Stack**
-
-`Python` `FastAPI` `LangGraph` `PostgreSQL` `OpenAI`
-
-[View repository →](https://github.com/miracyorulmaz/digital-worker-poc)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🌍 Miraç'tan Dünyaya — Builder OS
-
-My personal platform for publishing **projects, research and academic notes** while managing everything through a custom administration system.
-
-It is not just a portfolio — it is my personal digital publishing infrastructure.
-
-**Highlights**
-
-* Project publishing system
-* Research & notes platform
-* Custom admin panel
-* Content ordering and visibility controls
-* Responsive product experience
-* Production deployment
-
-**Stack**
-
-`React` `TypeScript` `Vite` `Node.js` `PostgreSQL` `Vercel`
-
-[Live website →](https://miractandunyaya.com)
-[View repository →](https://github.com/miracyorulmaz/miractandunyaya-builder-os)
-
-</td>
-</tr>
-
-<tr>
-<td width="50%" valign="top">
-
-### ⚽ Juventus Academy Platform
-
-A full-stack digital platform developed for a football academy with public content, applications and administrative workflows.
-
-**Highlights**
-
-* Content management panel
-* Server-side authentication
-* Registration applications
-* Image storage & optimization
-* Email notifications
-* Database-level access policies
-* Production deployment architecture
-
-**Stack**
-
-`Next.js` `TypeScript` `Supabase` `PostgreSQL` `Vercel`
-
-[View repository →](https://github.com/miracyorulmaz/Juventus)
-
-</td>
-
-<td width="50%" valign="top">
-
-### 📚 YBS Vault
-
-A growing knowledge system for my **Management Information Systems studies**, technical notes and structured learning material.
-
-The goal is to turn university knowledge into an organized and reusable technical knowledge base.
-
-**Focus**
-
-* SQL & databases
-* Information systems
-* Data structures
-* Operations research
-* Enterprise systems
-* Software development
-
-[View repository →](https://github.com/miracyorulmaz/ybs-vault)
-
-</td>
-</tr>
-</table>
-
----
-
-## 🧠 What I'm interested in
+I prefer building end-to-end:
 
 ```text
-Artificial Intelligence
-├── AI Agents
-├── Digital Workers
-├── Professional Memory
-├── Workflow Automation
-└── Applied LLM Systems
-
-Information Systems
-├── ERP Systems
-├── Business Process Design
-├── Digital Transformation
-├── Data & Decision Systems
-└── Enterprise Software
-
-Software Products
-├── Full-stack Development
-├── Backend Architecture
-├── Product Engineering
-├── Database Design
-└── Production Deployment
+idea → research → architecture → build → test → ship → iterate
 ```
 
----
+My goal is not to collect repositories.
 
-## 🛠 Tech Stack
-
-### Languages
-
-![Python](https://img.shields.io/badge/Python-111111?style=flat-square\&logo=python)
-![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=flat-square\&logo=typescript)
-![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=flat-square\&logo=javascript)
-![SQL](https://img.shields.io/badge/SQL-111111?style=flat-square\&logo=postgresql)
-
-### Frontend
-
-![React](https://img.shields.io/badge/React-111111?style=flat-square\&logo=react)
-![Next.js](https://img.shields.io/badge/Next.js-111111?style=flat-square\&logo=nextdotjs)
-![Vite](https://img.shields.io/badge/Vite-111111?style=flat-square\&logo=vite)
-
-### Backend & AI
-
-![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=flat-square\&logo=fastapi)
-![Node.js](https://img.shields.io/badge/Node.js-111111?style=flat-square\&logo=nodedotjs)
-![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=flat-square\&logo=openai)
-![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=flat-square)
-
-### Data & Infrastructure
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=flat-square\&logo=postgresql)
-![Supabase](https://img.shields.io/badge/Supabase-111111?style=flat-square\&logo=supabase)
-![Vercel](https://img.shields.io/badge/Vercel-111111?style=flat-square\&logo=vercel)
-![Git](https://img.shields.io/badge/Git-111111?style=flat-square\&logo=git)
+**I want to build systems that become useful outside GitHub.**
 
 ---
 
-## 🎓 Beyond code
+## What I Build
 
-I'm studying **Management Information Systems**, which means I don't look at software only from the implementation side.
+### AI Systems
 
-I'm equally interested in:
+I explore how AI can move beyond chat interfaces and become part of structured workflows.
 
-**technology × people × processes × business**
+Current interests include:
 
-That perspective shapes the projects I build.
+* AI agents
+* Digital workers
+* Professional memory
+* Tool-based execution
+* Workflow automation
+* Evidence-grounded outputs
+* Human + AI collaboration
 
-I want to understand not only:
+### Digital Products
 
-> “Can this be developed?”
+I build full-stack products with a focus on real usage rather than isolated demos.
+
+That usually means working across:
+
+* product thinking,
+* frontend,
+* backend,
+* databases,
+* authentication,
+* administration systems,
+* deployment,
+* and iteration.
+
+### Information Systems
+
+My MIS background shapes the way I approach software.
+
+I care not only about:
+
+> **Can we build this?**
 
 but also:
 
-> “Who needs it, why does it matter, and how does it fit into a real system?”
+> **Who needs it, how does it fit into the process, and what problem does it actually solve?**
 
 ---
 
-## 🔭 Currently exploring
+# Selected Work
 
-* AI agents and digital worker architectures
-* Long-term and professional memory for AI systems
-* Enterprise AI applications
-* ERP and business process systems
-* Applied PostgreSQL architecture
-* Production-oriented full-stack development
-* Building products from academic ideas
-* Human + AI collaboration workflows
+## 🤖 Adaptive Professional Digital Worker
+
+**A role-based AI worker designed around professional capability, persistent memory and controlled execution.**
+
+The project explores how a digital worker can perform structured professional tasks while maintaining evidence-based skill progression and reusable professional memory.
+
+**Key areas**
+
+* persistent professional memory
+* deterministic business tools
+* evidence-grounded reports
+* capability and skill evaluation
+* session-to-session recall
+* security-aware execution boundaries
+* typed AI workflows
+
+**Stack**
+
+`Python` · `FastAPI` · `LangGraph` · `PostgreSQL` · `OpenAI`
+
+[View repository →](https://github.com/miracyorulmaz/digital-worker-poc)
 
 ---
 
-## 📈 GitHub
+## 🌍 Miraç'tan Dünyaya — Builder OS
+
+**My personal publishing and project operating system.**
+
+Instead of creating a traditional portfolio, I built my own platform for publishing projects, research and academic notes while managing everything through a custom administration system.
+
+**Key areas**
+
+* project publishing
+* research & notes
+* custom administration panel
+* content visibility and ordering
+* responsive experience
+* production deployment
+* personal digital identity
+
+**Stack**
+
+`React` · `TypeScript` · `Vite` · `Node.js` · `PostgreSQL` · `Vercel`
+
+[Visit miractandunyaya.com →](https://miractandunyaya.com)
+
+[View repository →](https://github.com/miracyorulmaz/miractandunyaya-builder-os)
+
+---
+
+## ⚽ Juventus Academy Platform
+
+**A production-oriented digital platform for Juventus Academy Batıkent.**
+
+The system combines a public-facing academy website with administrative workflows and real registration infrastructure.
+
+**Key areas**
+
+* content management
+* admin authentication
+* registration applications
+* media storage
+* email notifications
+* database access policies
+* secure server-side workflows
+
+**Stack**
+
+`Next.js` · `TypeScript` · `Supabase` · `PostgreSQL` · `Vercel`
+
+[View repository →](https://github.com/miracyorulmaz/Juventus)
+
+---
+
+## 📚 YBS Vault
+
+**A growing knowledge base for Management Information Systems and technical learning.**
+
+The goal is to turn coursework and technical study into reusable, structured knowledge rather than notes that disappear after an exam.
+
+**Topics**
+
+`SQL` · `Databases` · `Information Systems` · `Data Structures` · `Operations Research` · `Enterprise Systems`
+
+[View repository →](https://github.com/miracyorulmaz/ybs-vault)
+
+---
+
+# Technology
+
+### Languages
+
+![Python](https://img.shields.io/badge/Python-111111?style=for-the-badge\&logo=python\&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-111111?style=for-the-badge\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-111111?style=for-the-badge\&logo=javascript\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=white)
+
+### Product Development
+
+![React](https://img.shields.io/badge/React-111111?style=for-the-badge\&logo=react\&logoColor=white)
+![Next.js](https://img.shields.io/badge/Next.js-111111?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-111111?style=for-the-badge\&logo=fastapi\&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-111111?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
+
+### Data & Infrastructure
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-111111?style=for-the-badge\&logo=postgresql\&logoColor=white)
+![Supabase](https://img.shields.io/badge/Supabase-111111?style=for-the-badge\&logo=supabase\&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-111111?style=for-the-badge\&logo=vercel\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-111111?style=for-the-badge\&logo=git\&logoColor=white)
+
+### AI
+
+![OpenAI](https://img.shields.io/badge/OpenAI-111111?style=for-the-badge\&logo=openai\&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-111111?style=for-the-badge)
+
+---
+
+# Current Focus
+
+I'm currently deepening my work around:
+
+**01 — Applied AI**
+
+Moving from generic AI interfaces toward systems that can perform structured, traceable work.
+
+**02 — Enterprise Systems**
+
+Understanding how software, data and AI fit into real organizational processes.
+
+**03 — Product Engineering**
+
+Improving my ability to take a product from architecture to production.
+
+**04 — Knowledge Systems**
+
+Exploring ways to structure, preserve and reuse both human and AI knowledge.
+
+---
+
+# How I Think About Building
+
+```text
+BUILD
+  ↓
+MEASURE
+  ↓
+LEARN
+  ↓
+IMPROVE
+  ↓
+SHIP AGAIN
+```
+
+I value:
+
+**usefulness over complexity**
+**systems over isolated features**
+**evidence over assumptions**
+**shipping over endless polishing**
+
+---
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=miracyorulmaz&show_icons=true&hide_border=true&theme=transparent&rank_icon=github" />
+## Build systems. Ship products. Create impact.
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=miracyorulmaz&layout=compact&hide_border=true&theme=transparent" />
+<br>
 
-</div>
+<a href="https://miractandunyaya.com">
+  <b>miractandunyaya.com</b>
+</a>
 
----
+<br><br>
 
-## 🧭 Current direction
-
-I'm currently building my experience around three main areas:
-
-**01 — AI Systems**
-Building intelligent systems that can perform structured, useful work.
-
-**02 — Enterprise & Information Systems**
-Understanding how technology supports organizations, processes and decision-making.
-
-**03 — Product Building**
-Taking ideas beyond prototypes and turning them into usable products.
-
----
-
-<div align="center">
-
-### From ideas to systems. From systems to products.
-
-🌐 [miractandunyaya.com](https://miractandunyaya.com)
-
-<sub>Miraç Burak Yorulmaz · Türkiye</sub>
+<sub>
+Miraç Burak Yorulmaz · Türkiye
+</sub>
 
 </div>
