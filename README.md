@@ -15,11 +15,15 @@
 </p>
 
 <p align="center">
-  <a href="https://miractandunyaya.com">Website</a>
-  &nbsp;·&nbsp;
-  <a href="https://www.linkedin.com/in/miracburakyorulmaz">LinkedIn</a>
-  &nbsp;·&nbsp;
-  <a href="mailto:mbyorulmaz@gmail.com">Email</a>
+  <a href="https://miractandunyaya.com">
+    <img src="https://img.shields.io/badge/Website-111111?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website" />
+  </a>
+  <a href="https://www.linkedin.com/in/miracburakyorulmaz">
+    <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="mailto:mbyorulmaz@gmail.com">
+    <img src="https://img.shields.io/badge/Email-111111?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
 </p>
 
 ---
